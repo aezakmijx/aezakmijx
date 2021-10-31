@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aezakmijx
-- 👀 I’m interested in your mum <3 <3 <3
+- 👀 I’m interested in gamedev
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on nothing bro sorry... ya odinokiy volk
 - 📫 You can't reach me sorry broski
